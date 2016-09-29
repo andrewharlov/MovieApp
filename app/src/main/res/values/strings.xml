@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="api_end_point">http://api.themoviedb.org/3/</string>
+    <string name="api_key">72b56103e43843412a992a8d64bf96e9</string>
+    <string name="error_msg">No connection</string>
+    <string name="search_view_hint">Search movies</string>
+    <string name="search_settings_description">Search movies by a title</string>
+    <string name="click_search_icon_title">Search movies</string>
+</resources>
